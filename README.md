@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/I_love_design._@vmx2f-0d141f?style=flat-square">
   </a>
   <p>✢</p>
-  <a href="https://0xslyv.space">
+  <a href="mailto:vmx2f@proton.me">
     <img src="https://img.shields.io/badge/Mail:_vmx2f@proton.me-0d141f?style=flat-square">
   </a>
 </div>
